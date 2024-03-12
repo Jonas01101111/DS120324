@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC", "IMC\IMC.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presenca", "Presenca\Presenca.csproj", "{E0A54890-C025-4B56-98E7-8D51798441AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescansoMerecido", "DescansoMerecido\DescansoMerecido.csproj", "{CF1EF96A-C420-4AE5-A0D7-83A6444F7FBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E0A54890-C025-4B56-98E7-8D51798441AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0A54890-C025-4B56-98E7-8D51798441AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0A54890-C025-4B56-98E7-8D51798441AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1EF96A-C420-4AE5-A0D7-83A6444F7FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1EF96A-C420-4AE5-A0D7-83A6444F7FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1EF96A-C420-4AE5-A0D7-83A6444F7FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1EF96A-C420-4AE5-A0D7-83A6444F7FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
